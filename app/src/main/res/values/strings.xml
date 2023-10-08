@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start">Witajcie w quizie o gotowaniu</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_mieso">Czy kurczak to czerwone mięso?</string>
+    <string name="q_owoc">Czy bakłażan to owoc?</string>
+    <string name="q_woda">Temperatura wrzenia wody to 77 stopni.</string>
+    <string name="q_vegan">Ulubionym śniadaniem wegan są jajeczka od szczęśliwej kurki.</string>
+    <string name="q_lubie">Czy lubisz gotowanie?</string>
+    <string name="correct_answer">Brawo!</string>
+    <string name="incorrect_answer">Jesteś słabeuszem. Graj dalej.</string>
+</resources>
