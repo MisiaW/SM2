@@ -11,4 +11,8 @@
     <string name="q_lubie">Czy lubisz gotowanie?</string>
     <string name="correct_answer">Brawo!</string>
     <string name="incorrect_answer">Jesteś słabeuszem. Graj dalej.</string>
+    <string name="prompttekst"> Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="promptbutton"> Pokaż odpowiedź</string>
+    <string name="buttontellme">Podpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
 </resources>

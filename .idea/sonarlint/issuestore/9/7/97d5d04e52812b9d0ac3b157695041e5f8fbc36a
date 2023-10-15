@@ -1,15 +1,17 @@
 
+f
+java:S1192"IDefine a constant instead of duplicating this literal "QUIZ_TAG" 5 times.(äµÞ¿8íë”¤±1
 J
-java:S1604"(Make this anonymous inner class a lambda(Üà¨¯üÿÿÿÿ8Öƒ³‡±1
+java:S1604 "(Make this anonymous inner class a lambda(Üà¨¯üÿÿÿÿ8Ôö‘¤±1
 E
-java:S1604#"(Make this anonymous inner class a lambda(Ãû…Ñ8×ƒ³‡±1
+java:S1604&"(Make this anonymous inner class a lambda(Ãû…Ñ8ðö‘¤±1
 J
-java:S1604*"(Make this anonymous inner class a lambda(ÈŒèâüÿÿÿÿ8Øƒ³‡±1
+java:S1604-"(Make this anonymous inner class a lambda(ÈŒèâüÿÿÿÿ8ñö‘¤±1
 |
-java:S1450"ZRemove the "falseBUtton" field and declare it as a local variable in the relevant methods.(”ËÁ–úÿÿÿÿ8¾„³‡±1
+java:S1450"ZRemove the "falseBUtton" field and declare it as a local variable in the relevant methods.(”ËÁ–úÿÿÿÿ8­‹é£±1
 {
-java:S1450"YRemove the "nextButton" field and declare it as a local variable in the relevant methods.(º€ü‰ùÿÿÿÿ8¾„³‡±1
+java:S1450"YRemove the "nextButton" field and declare it as a local variable in the relevant methods.(º€ü‰ùÿÿÿÿ8Õø‘¤±1
 {
-java:S1450"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãþ×Äüÿÿÿÿ8¾„³‡±1
-e
-java:S1117I"CRename "resultMessageId" which hides the field declared at line 66.(ò¨‰çÿÿÿÿÿ8Ø„³‡±1
+java:S1450"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãþ×Äüÿÿÿÿ8¯‹é£±1
+f
+java:S1117p"DRename "resultMessageId" which hides the field declared at line 105.(ò¨‰çÿÿÿÿÿ8¨²•¤±1
